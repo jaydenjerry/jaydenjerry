@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @jaydenjerry
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in hacking in gorila tag
+- 🌱 I’m currently learning how to hack gorila tag
+- 💞️ I’m looking to collaborate on hacking gorila tag
+-
+- 📫 How to reach me 
 
 <!---
 jaydenjerry/jaydenjerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
